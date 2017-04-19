@@ -1,0 +1,16 @@
+{
+    "name": "kis/page-host",
+    "description": "Find all resource in page for shadowsocks user rule",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kis",
+            "email": "yangqinchuan_kis@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
